@@ -26,9 +26,9 @@ The images for camera calibration are stored in the folder called `camera_cal`. 
 [image5]: ./output_images/color_threshold_images/all_color_1.png "Color Threshold Example"
 [image6]: ./output_images/sliding_box_images/1.jpg "Sliding Box Example"
 [image7]: ./output_images/lane_margin_images/1.jpg "Lane Margin Example"
-[image8]: ./output_images/shaded_images/1.jpg "Shaded Lane Example"
+[image8]: ./output_images/shaded_images/1.JPG "Shaded Lane Example"
 [image9]: ./output_images/histograms/1.png "Histogram Example"
-[image10]: ./output_images/final_output/1.jpg "Final Output Example"
+[image10]: ./output_images/final_output/1.JPG "Final Output Example"
 
 [gif1]: ./project_video_output.gif "GIF output"
 
